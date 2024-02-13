@@ -11,6 +11,14 @@ This repository contains the following files and directories:
 - `README.md`: This file, providing an overview of the project, its objectives, and contents of the repository.
 - `Data/`: Directory containing the datasets used in the project, including historical stock prices and social media sentiment data.
 
+## References
+- GameStop: What is it and why is it trending? https://www.bbc.com/news/newsbeat-55841719
+- LSTM-based sentiment analysis for stock price forecast: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7959635/
+- Reddit Sentiment Data: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TUMIPC
+- Reddit WallStreetBets Posts: https://www.kaggle.com/datasets/gpreda/reddit-wallstreetsbets-posts
+- Sentiment Analysis for Financial News: https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news
+- Yahoo Finance (yfinance module in Python): https://pypi.org/project/yfinance/
+
 ## Further Information
 For more details on the methodology, analysis, and findings, please refer to the `Stock_Price_Prediction_Report_KS.pdf` document in this repository.
 
