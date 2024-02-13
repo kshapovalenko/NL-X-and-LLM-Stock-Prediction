@@ -7,7 +7,7 @@ The GameStop (GME) short squeeze in January 2021, driven by Reddit's r/wallstree
 This repository contains the following files and directories:
 
 - `Stock_Price_Prediction_Notebook_KS.ipynb`: Jupyter notebook containing the Python code for model building, including data acquisition, preprocessing, model training, and evaluation.
-- `Stock_Price_Prediction_Report_KS.pdf`: A detailed report in PDF format summarizing the approach, methodology, results, and insights from the analysis. It also includes all visualizations
+- `Stock_Price_Prediction_Report_KS.pdf`: A detailed report in PDF format summarizing the approach, methodology, results, and insights from the analysis. It also includes all visualizations.
 - `README.md`: This file, providing an overview of the project, its objectives, and contents of the repository.
 - `Data/`: Directory containing the datasets used in the project, including historical stock prices and social media sentiment data.
 
